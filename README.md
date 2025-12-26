@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm a **Product Engineer** at [DeltaX](https://deltax.com/)
+- 🔭 I'm a **Senior Product Engineer** and **Team Lead** at [DeltaX](https://deltax.com/), Building [Birdigo](https://birdigo.com/).
 
 #### 📜 Some of the Post written by ME
 
+- [🚀 Boosting LeadX API Performance with Hybrid Caching - Up-to 17% Latency Reduction](https://engineering.deltax.com/articles/2024-11/hybridcache) - Nov, 2024
+- [Introduction to HttpClientFactory](https://engineering.deltax.com/articles/2023-03/httpclientfactory) - March, 2023
+- [Provide System.CommandLine makeover to your CLI](https://engineering.deltax.com/articles/2022-09/system-commandline) - September, 2022
 - [State of WSL and Docker in 2019](https://engineering.deltax.com/articles/2019-07/state-of-wsl-and-docker) - July, 2019
 - [API Versioning with ASP.NET Core](https://engineering.deltax.com/articles/2018-09/api-versioning-with-dotnet-core) - September, 2018
 - [Introduction to PWA in ASP.NET Core Application](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-pwa-in-asp-net-core-application-da96c7cc4918) - May, 2018
